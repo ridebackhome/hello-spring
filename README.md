@@ -8,7 +8,7 @@ Helllo the  future world!
 I am used to write in Chinese,
 So it is a little difficult for me here, 
 But i will try 
-这是一个2019年春天开始的全新项目
+那是一个春天
 我听说Github是一个管理代码的好地方
 我不会编程但是我对编程相关的事情比较感兴趣
 我相信编程是未来世界的一个入口
